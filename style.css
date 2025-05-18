@@ -1,0 +1,41 @@
+h1{background-color: black;
+color: white;
+font-size: 30px;
+font-style: italic;
+font-weight: bolder;
+text-align: center;
+text-decoration: underline;}
+img {align-items: center;
+justify-content: center;
+margin: 0 auto;
+display: block;
+border: 2px solid white;
+border-radius: 10px;
+}
+body{background-color: black;}
+div {color : white;
+font-size: 20px;
+font-style: italic;
+font-weight: bolder;
+text-align: center;}
+h2{color: white;
+font-size: 20px;
+font-style: italic;
+font-weight: bolder;
+text-align: center;
+text-decoration: underline;}
+marquee{color: white;
+font-size: 25px;
+font-style: italic;
+font-weight: bolder;
+text-decoration: overline;
+text-decoration: underline;}
+p{color: white;
+font-size: 20px;
+font-style: italic;
+font-weight: bolder;
+text-align: right;
+border: 15px;
+border-style: solid;
+border-color:skyblue;
+border-radius: 10px;}
